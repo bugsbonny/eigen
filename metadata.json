@@ -1,7 +1,7 @@
 {
   "name": "<BGG>",
-  "website": "<YOUR_WEBSITE>",
-  "description": "<anyone>",
+  "website": "https://github.com/bugsbonny",
+  "description": "anyone",
   "logo": "https://www.example.com/logo.png",
-  "twitter": "<bluebird>"
+  "twitter": "https://twitter.com/bizimdevre"
 }
